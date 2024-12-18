@@ -1,11 +1,11 @@
-**Kontext
-**
+**Kontext**
+
 CRM oddelenie a Marketingové oddelenie telekomunikačnej spoločnosti chystajú navrhnúť kampaň smerom ku existujúcim zákazníkom prostredníctvom hromadných mediálnych kanálov vrátane e-mailu, SMS a sociálnych médií. 
 Ich cieľom je udržať a zapojiť nelojálnych zákazníkov a zároveň sa vyhnúť zbytočnej komunikácii s vernými zákazníkmi (počíta sa s pokrytím 50 - 60% reálne nelojálnych zákazníkov, ktorí budú čo najprecíznejšie vytipovaní). 
 Zároveň sa pripravujú zvýhodnené balíčky služieb precízne vytipovaným potenciálne nelojálnym zákazníkom (počíta sa z balíčkom pre približne 7-10% zo skutočne nelojálnych zákazníkom, ktorí budú čo najprecíznejšie vytipovaní).
 
-**Úloha
-**
+**Úloha**
+
 Vašou úlohou ako dátového vedca bude zodpovednosť za vývoj a evaluáciu modelov založených na strojovom učení (ML).
 
 **Špecifikácia**
